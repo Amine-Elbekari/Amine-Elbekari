@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine El bekari</h1>
 <h3 align="center">A passionate Full-Stack Developer and Penetration Tester From Morocco</h3>
 
-- 🌱 I’m currently learning **EJPT**
+- 🌱 I’m Junior Pentester **EJPT**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
