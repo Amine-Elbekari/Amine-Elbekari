@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Full-Stack Development**
 
-- 💬 Ask me about **React,VueJS,Wordpress,SQL,PostgreSQL,CMS,**
+- 💬 Ask me about **React,VueJS,SQL,PostgreSQL,CMS,**
 
 - 📫 How to reach me **amineelbekari8@gmail.com**
 
