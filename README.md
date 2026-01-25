@@ -1,6 +1,7 @@
-[![ael-beka's 42 stats](https://badge.mediaplus.ma/binary/ael-beka)](https://github.com/oakoudad/badge42)
 <h1 align="center">Hi 👋, I'm Amine El bekari</h1>
-<h3 align="center">A passionate Full-Stack Developer and Penetration Tester From Morocco</h3>
+<h3 align="center">A passionate Full-Stack Engineer From Morocco</h3>
+
+[![ael-beka's 42 stats](https://badge.mediaplus.ma/greenbinary/ael-beka)](https://github.com/oakoudad/badge42)
 
 - 🌱 I’m Junior Pentester **EJPT**
 
