@@ -3,29 +3,37 @@
 
 [![ael-beka's 42 stats](https://badge.mediaplus.ma/greenbinary/ael-beka)](https://github.com/oakoudad/badge42)
 
-Amine El Bekari | Fullstack Developer & Security Enthusiast
-I am a Fullstack Developer (1337 Benguerir / 42 Network) specializing in building secure, scalable web applications. With a background in Fullstack development and a certified eJPT (Junior Penetration Tester), I bridge the gap between high-performance code and robust security.
+Amine El Bekari
+Fullstack Developer | Security Enthusiast | 1337 (42 Network)
+[ 🟢 OPEN FOR WORK ] > 📧 Email: amineelbekari8@gmail.com
 
-My Philosophy: "Framework Agnostic"
-My greatest strength is adaptability. Coming from the 42 Network, I am trained to be technology-independent. While I have a preferred stack, I possess the technical foundation to master any new language, framework, or tool within days. Whether it's a legacy system or the latest cutting-edge tech, I am ready to jump in and deliver.
+📍 Location: Morocco (Remote / Relocation)
 
+⚡ Executive Summary
+I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high-performance by design and secure by default.
 
-🛠 Professional Focus
-Fullstack Excellence: Building specialized architectures using Django, React, and NestJS.
-Security-First Development: Applying eJPT methodologies to prevent OWASP Top 10 vulnerabilities during the development phase.
-Cloud & DevOps: Automating deployments with Docker, Kubernetes (K3s).
-AI Integration: Implementing intelligent features into web ecosystems using Python.
+💡 My Philosophy: "Framework Agnostic"
+Adaptability is my Core: Trained in the 42 Network to be technology-independent.
 
-Current Projects & Goals
-Open for Work: Actively seeking a Fullstack or Junior DevOps role where security is a priority.
+Fast Learner: I possess the technical foundation to master any new language or framework within days.
 
-Learning: Deepening my knowledge of AWS architecture and AI/LLM integration.
+Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and deliver results.
 
-Collaborating: Interested in contributing to Open Source projects focused on Web Security.
+🛠️ Professional Focus
+💻 Fullstack Excellence: Crafting robust architectures with Django, Next.js, and NestJS.
 
-Connect with me
-Email: amineelbekari8@gmail.com
-Location: Morocco (Open to Remote / Relocation)
+🛡️ Security-First Dev: Applying eJPT methodologies to mitigate OWASP Top 10 risks during the build.
+
+☁️ Cloud & DevOps: Automating deployments using Docker & Kubernetes (K3s).
+
+🤖 AI Integration: Implementing intelligent features using Python & LLM integration.
+
+🎯 Current Goals
+💼 Job Seeking: Actively pursuing Fullstack or Junior DevOps roles.
+
+📚 Learning: Deepening expertise in AWS Architecture and AI/LLM orchestration.
+
+🤝 Collaborating: Open to Open Source projects focused on Web Security.
 
 <h3 align="left">Technical Stack:</h3>
 
