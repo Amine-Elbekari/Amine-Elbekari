@@ -10,10 +10,10 @@
 
 📍 <strong>Location</strong>: Morocco (Remote / Relocation)
 
-⚡ <h3>Executive Summary</h3>
+ <h3>⚡Executive Summary</h3>
   <p>I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high performance by design and secure by default.</p>
 
-💡 <strong>My Philosophy</strong>: <em>"Framework Agnostic"</em>
+ <strong>💡My Philosophy</strong>: <em>"Framework Agnostic"</em>
   <ul>
     <li>Adaptability is my Core: Trained in the 42 Network to be technology-independent.</li>
 
@@ -21,7 +21,7 @@
 
   <li>Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and deliver results.</li>
 </ul>
-🛠️ <h3>Professional Focus</h3>
+<h3>🛠️ Professional Focus</h3>
  <ul>
   <li>Fullstack Excellence: Crafting robust architectures with Django, Next.js, and NestJS.</li>
 
@@ -31,7 +31,7 @@
 
  <li>AI Integration: Implementing intelligent features using Python & LLM integration.</li>
 </ul>
-🎯 <h3>Current Goals:</h3>
+ <h3>🎯 Current Goals:</h3>
 <ul>
   <li>Job Seeking: Actively pursuing Fullstack or Junior DevOps roles.</li>
 
