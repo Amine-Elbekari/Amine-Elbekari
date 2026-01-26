@@ -22,22 +22,23 @@
   <li>Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and deliver results.</li>
 </ul>
 🛠️ <h3>Professional Focus</h3>
-💻 <ul><li>Fullstack Excellence: Crafting robust architectures with Django, Next.js, and NestJS.</li>
+ <ul>
+  <li>Fullstack Excellence: Crafting robust architectures with Django, Next.js, and NestJS.</li>
 
-🛡️ <li>Security-First Dev: Applying eJPT methodologies to mitigate OWASP Top 10 risks during the build.</li>
+ <li>Security-First Dev: Applying eJPT methodologies to mitigate OWASP Top 10 risks during the build.</li>
 
-☁️ <li>Cloud & DevOps: Automating deployments using Docker & Kubernetes (K3s).</li>
+ <li>Cloud & DevOps: Automating deployments using Docker & Kubernetes (K3s).</li>
 
-🤖 <li>AI Integration: Implementing intelligent features using Python & LLM integration.</li>
+ <li>AI Integration: Implementing intelligent features using Python & LLM integration.</li>
 </ul>
-🎯 Current Goals:
+🎯 <h3>Current Goals:</h3>
+<ul>
+  <li>Job Seeking: Actively pursuing Fullstack or Junior DevOps roles.</li>
 
-💼 Job Seeking: Actively pursuing Fullstack or Junior DevOps roles.
+<li>Learning: Deepening expertise in AWS Architecture and AI/LLM orchestration.</li>
 
-📚 Learning: Deepening expertise in AWS Architecture and AI/LLM orchestration.
-
-🤝 Collaborating: Open to Open Source projects focused on Web Security.
-
+<li>Collaborating: Open to Open Source projects focused on Web Security.</li>
+</ul>
 <h3 align="left">Technical Stack:</h3>
 
 🧰 Technical Stack
