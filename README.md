@@ -13,7 +13,7 @@ Fullstack Developer | AI and Security Enthusiast | 1337 (42 Network)
 ⚡ Executive Summary
 I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high performance by design and secure by default.
 
-💡 My Philosophy: "Framework Agnostic"
+💡 <strong>My Philosophy</strong>: "Framework Agnostic"
   
   Adaptability is my Core: Trained in the 42 Network to be technology-independent.
 
