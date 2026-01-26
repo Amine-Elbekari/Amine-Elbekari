@@ -3,24 +3,24 @@
 
 [![ael-beka's 42 stats](https://badge.mediaplus.ma/greenbinary/ael-beka)](https://github.com/oakoudad/badge42)
 
-Amine El Bekari
-Fullstack Developer | AI and Security Enthusiast | 1337 (42 Network)
+<h3>Amine El Bekari</h3>
+<h2>Fullstack Developer | AI and Security Enthusiast | 1337 (42 Network)</h2>
 
 [ 🟢 OPEN FOR WORK ] > 📧 Email: amineelbekari8@gmail.com
 
-📍 Location: Morocco (Remote / Relocation)
+📍 <strong>Location</strong>: Morocco (Remote / Relocation)
 
-⚡ Executive Summary
-I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high performance by design and secure by default.
+⚡ <h3>Executive Summary</h3>
+  <p>I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high performance by design and secure by default.</p>
 
 💡 <strong>My Philosophy</strong>: "Framework Agnostic"
-  
-  Adaptability is my Core: Trained in the 42 Network to be technology-independent.
+  <ul>
+    <li>Adaptability is my Core: Trained in the 42 Network to be technology-independent.</li>
 
-Fast Learner: I possess the technical foundation to master any new language or framework within days.
+  <li>Fast Learner: I possess the technical foundation to master any new language or framework within days.</li>
 
-Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and deliver results.
-
+  <li>Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and deliver results.</li>
+</ul>
 🛠️ Professional Focus
 💻 Fullstack Excellence: Crafting robust architectures with Django, Next.js, and NestJS.
 
