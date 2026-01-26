@@ -4,16 +4,18 @@
 [![ael-beka's 42 stats](https://badge.mediaplus.ma/greenbinary/ael-beka)](https://github.com/oakoudad/badge42)
 
 Amine El Bekari
-Fullstack Developer | Security Enthusiast | 1337 (42 Network)
+Fullstack Developer | AI and Security Enthusiast | 1337 (42 Network)
+
 [ 🟢 OPEN FOR WORK ] > 📧 Email: amineelbekari8@gmail.com
 
 📍 Location: Morocco (Remote / Relocation)
 
 ⚡ Executive Summary
-I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high-performance by design and secure by default.
+I am a Fullstack Developer from 1337 Benguerir (42 Network) specializing in secure, scalable web systems. By combining Fullstack engineering with a Certified eJPT (Junior Penetration Tester) background, I build applications that are high performance by design and secure by default.
 
 💡 My Philosophy: "Framework Agnostic"
-Adaptability is my Core: Trained in the 42 Network to be technology-independent.
+  
+  Adaptability is my Core: Trained in the 42 Network to be technology-independent.
 
 Fast Learner: I possess the technical foundation to master any new language or framework within days.
 
