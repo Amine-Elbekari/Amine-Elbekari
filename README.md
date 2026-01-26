@@ -30,7 +30,7 @@ Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and de
 
 🤖 AI Integration: Implementing intelligent features using Python & LLM integration.
 
-🎯 ## Current Goals:
+🎯 Current Goals:
 
 💼 Job Seeking: Actively pursuing Fullstack or Junior DevOps roles.
 
