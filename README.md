@@ -33,7 +33,9 @@ Tool Agnostic: Whether it’s legacy code or cutting-edge tech, I jump in and de
 🎯 Current Goals:
 
 💼 Job Seeking: Actively pursuing Fullstack or Junior DevOps roles.
+
 📚 Learning: Deepening expertise in AWS Architecture and AI/LLM orchestration.
+
 🤝 Collaborating: Open to Open Source projects focused on Web Security.
 
 <h3 align="left">Technical Stack:</h3>
