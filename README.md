@@ -1,3 +1,41 @@
+<h1 align="center">Hi 👋, I'm Amine El Bekari</h1>
+<h3 align="center">A passionate Full-Stack Engineer from Morocco, specializing in secure automation and scalable architectures.</h3>
+
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/ael-beka" alt="ael-beka's 42 stats" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Full-Stack Engineer | DevOps & Cloud Automation | Security Specialist (eJPT)</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:amineelbekari8@gmail.com">
+    <img src="https://img.shields.io/badge/🟢%20OPEN%20FOR%20WORK-Email%20Me-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Open for Work"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Executive Summary
+
+I am a Full-Stack Engineer trained at **1337 (42 Network)**, specializing in transforming manual business operations into highly optimized, automated, and secure digital applications. By combining robust backend development with an **eJPT (Junior Penetration Tester)** security background, I design platforms that are high-performance by design and secure by default. 
+
+* 📍 **Location:** Morocco (Open to Local, Remote, or Relocation)
+* 💡 **Philosophy:** *Framework Agnostic*. Trained to understand low-level behaviors, meaning I can adapt, pick up, and master any tool, language, or cloud ecosystem within days to solve complex technical challenges.
+
+---
+
+### 🚀 Recent Impact & Focus
+
+* **Workflow Digitalization:** Experienced in replacing manual, error-prone workflows (like spreadsheet-to-planner pipelines) with enterprise-grade Next.js/NestJS platforms that eliminate administrative friction.
+* **GenAI Orchestration:** Skilled in building and embedding interactive LLM/Gemini features directly into corporate tools to accelerate user productivity and optimize operations.
+* **Security & Compliance:** Applying rigorous role-based access controls (RBAC) and penetration testing methodologies to guarantee governance and protect enterprise data against OWASP Top 10 risks.
+* **Infrastructure as Code:** Automating bare-metal or cloud setups into repeatable single-command deployments using Ansible, Vagrant, and Kubernetes (K3s).
+
+---
 ### 🛠️ Technical Stack
 
 #### 💻 Languages & Core Ecosystems
@@ -35,4 +73,18 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 🎯 Target Goals & Horizons
+
+* 🔍 **Actively Interviewing:** Looking for Full-Stack Engineer, Automation Developer, or Junior DevOps positions.
+* 🧠 **Currently Deepening:** Scaling up skills in **AWS Cloud Architecture**, complex API integrations, and fine-tuning **GenAI/LLM pipelines (Gemini/OpenAI)**.
+* 🤝 **Open Collaboration:** Interested in contributing to open-source tools focused on DevSecOps, workflow automation, and API security.
+
+---
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication. Security is the foundation."</i>
 </p>
